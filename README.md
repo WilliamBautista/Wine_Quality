@@ -1,7 +1,7 @@
 # Wine_Quality
-A project to determine if the quality of wine can be ascertained by predictor variables. This was done by using maching learning to get predictor values.
-
 This project was developed in cooperation with Teresa Miller.(https://github.com/Teresawithoutah)
+
+A project to determine if the quality of wine can be ascertained by predictor variables. This was done by using maching learning to get predictor values.
 
 ## Description of the Data Set
 Through the UCI ML Repository,* we selected a dataset detailing red vinho (wine) samples from the north of Portugal.
